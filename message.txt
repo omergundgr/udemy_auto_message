@@ -1,0 +1,1 @@
+<p>Blok kodlama ve Yazılım konuları için soru-cevap niteliğinde bir Forum sitesi oluşturduk.</p><p><code>https://forum.softzone.com.tr/</code> adresinden ulaşabilirsiniz.</p><p> Karşılaştığınız her türlü soruyu sorabilir, başkalarının sorunlarına çözüm sağlayabilirsiniz.</p>
